@@ -1,0 +1,33 @@
+* {
+    background-color: #605C4E;
+    color: #EAFFDA;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.horizontal-line {
+    border-bottom: 2px solid #A49966;
+}
+
+.list-container {
+    border-color: blanchedalmond;
+    border: 30px;
+    font-size: 30px;
+}
+
+ul {
+    padding-left: 2rem;
+    list-style-type: none;
+}
+
+ul li {
+    padding-left: 2rem;
+    background-image: url(star-svgrepo-com.svg);
+    background-position: left;
+    background-size: 1.6rem 1.6rem;
+    background-repeat: no-repeat;
+}

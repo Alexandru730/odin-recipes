@@ -1,0 +1,21 @@
+* {
+    margin: auto;
+    padding: 10px;
+    font-family: georgia, serif;
+    background-color: #fefbe9;
+}
+
+img {
+    width: 30rem;
+    height: auto;
+}
+
+.horizontal-line {
+    border-bottom: 3px solid #f6c453;
+}
+
+h1 {
+    text-align: center;
+    color: #f0a04b ;
+
+}

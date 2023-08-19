@@ -1,0 +1,16 @@
+* {
+    background-color: rgb(87, 119, 99);
+    color: aliceblue;
+    margin: 10px;
+    padding-bottom: 1px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul { 
+    font-size: 16px;
+}
+ 

@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+* {
+    background-color: beige;
+    color: rgb(66, 64, 64);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 30px;
+}
+
+ul {
+    padding-left: 2rem;
+    list-style-type: none;
+}
+
+ul li {
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+    background-image: url(price-pricetag-tag-svgrepo-com.svg);
+    background-position: 0 0;
+    background-size: 1.6rem 1.6rem;
+    background-repeat: no-repeat;
+}
